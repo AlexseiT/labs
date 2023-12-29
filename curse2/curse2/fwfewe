@@ -1,0 +1,13 @@
+<bbC> -> <b> <bC>
+C -> 'c' <cC>
+<cC> -> <c> C
+<c> -> 'c'
+C -> 'c'
+<Abb> -> A <bb>
+<AbbC> -> A <bbC>
+S -> 'a' <AbbC>
+<bC> -> <b> C
+<bb> -> <b> 'b'
+A -> 'a'
+<b> -> 'b'
+A -> 'a' <Abb>

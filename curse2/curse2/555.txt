@@ -1,0 +1,37 @@
+CFG:
+S -> 'a' A 'b' 'b' C
+A -> 'a' A 'b' 'b'
+A -> 'a'
+C -> 'c' 'c' C
+C -> 'c'
+
+CNF:
+S -> 'a' <AbbC>
+<AbbC> -> A <bbC>
+<bbC> -> <b> <bC>
+<b> -> 'b'
+<bC> -> <b> C
+<b> -> 'b'
+A -> 'a' <Abb>
+<Abb> -> A <bb>
+<bb> -> <b> 'b'
+<b> -> 'b'
+A -> 'a'
+C -> 'c' <cC>
+<cC> -> <c> C
+<c> -> 'c'
+C -> 'c'
+
+CFG chains:
+aabbccccc
+aaabbbbc
+aabbccc
+aabbc
+aaabbbbccc
+
+CNF chains:
+aabbccccc
+aaabbbbc
+aabbccc
+aabbc
+aaabbbbccc

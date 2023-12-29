@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curse_vihmat", "curse_vihmat\curse_vihmat.csproj", "{F68E2158-FA2D-4B10-B97A-BCAB0EE164F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68E2158-FA2D-4B10-B97A-BCAB0EE164F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68E2158-FA2D-4B10-B97A-BCAB0EE164F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68E2158-FA2D-4B10-B97A-BCAB0EE164F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68E2158-FA2D-4B10-B97A-BCAB0EE164F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52582829-C703-4299-85FE-032B30E735D9}
+	EndGlobalSection
+EndGlobal

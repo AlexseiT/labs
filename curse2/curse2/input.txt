@@ -1,0 +1,4 @@
+S -> A 'a' B | A 'a' | 'b' 'c'
+A -> A B | 'a' | 'a' C
+B -> B 'a' | 'b'
+C -> A B | 'c'

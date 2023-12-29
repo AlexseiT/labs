@@ -1,0 +1,15 @@
+G:\repos\curse_vihmat\curse_vihmat\bin\Debug\net6.0\curse_vihmat.exe
+G:\repos\curse_vihmat\curse_vihmat\bin\Debug\net6.0\curse_vihmat.deps.json
+G:\repos\curse_vihmat\curse_vihmat\bin\Debug\net6.0\curse_vihmat.runtimeconfig.json
+G:\repos\curse_vihmat\curse_vihmat\bin\Debug\net6.0\curse_vihmat.dll
+G:\repos\curse_vihmat\curse_vihmat\bin\Debug\net6.0\ref\curse_vihmat.dll
+G:\repos\curse_vihmat\curse_vihmat\bin\Debug\net6.0\curse_vihmat.pdb
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.csproj.AssemblyReference.cache
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.AssemblyInfoInputs.cache
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.AssemblyInfo.cs
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.csproj.CoreCompileInputs.cache
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.dll
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\ref\curse_vihmat.dll
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.pdb
+G:\repos\curse_vihmat\curse_vihmat\obj\Debug\net6.0\curse_vihmat.genruntimeconfig.cache
