@@ -1,0 +1,3 @@
+aa<A>bbc<C>
+a<A>bb \eps
+cc<C> \eps

@@ -1,0 +1,161 @@
+S aa A1 bbc C
+A1 a A1 bb | eps
+C cc C | eps
+
+
+
+(1 Грамматика)
+a b c
+<S> <A1> <C>
+3
+<S> <A1> <C>
+
+<S> <A> <C>
+
+aa<A>bbc<C>
+a<A>bb \eps
+cc<C> \eps
+
+
+
+<S>
+<
+S
+>
+
+
+aa<A1>bbc<C>
+aaa<A1>bbbbc<C>
+aabbc<C>
+aaabbbbc<C>
+aabbccc<C>
+aabbc
+
+
+1) aabbc
+
+
+aaabbbbccc<C>
+aaabbbbc
+
+
+2) aaabbbbc
+
+
+aabbccccc<C>
+aabbccc
+
+
+3) aabbccc
+
+aaabbbbccc
+
+4) aaabbbbccc
+
+aabbccccc
+
+5) aabbccccc
+
+
+aa<A1>bbc<C>
+aaa<A1>bbbbc<C>
+aabbc<C>
+aaabbbbc<C>
+aabbccc<C>
+aabbc
+aaabbbbccc<C>
+aaabbbbc
+aabbccccc<C>
+aabbccc
+aaabbbbccc
+aabbccccc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aa<A1>bbc<C>
+a<A1>bb \eps
+cc<C> \eps
+<S>
+
+a b c
+<S> <A1> <C>
+
+aa<A1>bbc<C>
+a<A1>bb \eps
+cc<C> \eps
+<S>
+
+<A1>  ->  \S1 \S4
+<C>  ->  \S3 \S6
+\S0  ->  \S1 \S7
+\S1  ->  a
+\S10  ->  \S2 \S11
+\S11  ->  \S3 <C>  |  c
+\S2  ->  b
+\S3  ->  c
+\S4  ->  <A1> \S5  |  \S2 \S2
+\S5  ->  \S2 \S2
+\S6  ->  \S3 <C>  |  c
+\S7  ->  \S1 \S8
+\S8  ->  <A1> \S9  |  \S2 \S10
+\S9  ->  \S2 \S10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<S>                   1
+ aa<A1>bbc<C>         2
+  aaa<A1>bbbbc<C>
+  aabbc<C>
+   aaabbbbc<C>
+   aabbccc<C>
+   aabbc
+   aaabbbbccc<C>
+aaabbbbc
+aabbccccc<C>
+aabbccc
+aaabbbbccc
+aabbccccc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
