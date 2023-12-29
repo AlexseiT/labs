@@ -1,0 +1,3 @@
+﻿  9labCAOD.cpp
+C:\Users\Шайтанмашина\source\repos\9labCAOD\9labCAOD\9labCAOD.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  9labCAOD.vcxproj -> C:\Users\Шайтанмашина\source\repos\9labCAOD\Debug\9labCAOD.exe
