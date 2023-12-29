@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8nkgZmkYsSreE5iVcREfGJB9w6Ifrsqw0HA4KmUjITgbxSAvQo9cbZexnNtEtazfIPUpGFZ15moVOtXrFrPgw==",
+  "success": true,
+  "projectFilePath": "G:\\repos\\CurseWorkVichMat\\CurseWorkVichMat\\CurseWorkVichMat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\scottplot\\4.1.45\\scottplot.4.1.45.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\scottplot.winforms\\4.1.45\\scottplot.winforms.4.1.45.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Шайтанмашина\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

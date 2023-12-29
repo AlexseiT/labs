@@ -1,0 +1,5 @@
+G:\repos\CurseWorkVichMat\CurseWorkVichMat\obj\Debug\net5.0-windows\CurseWorkVichMat.csproj.AssemblyReference.cache
+G:\repos\CurseWorkVichMat\CurseWorkVichMat\obj\Debug\net5.0-windows\CurseWorkVichMat.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\CurseWorkVichMat\CurseWorkVichMat\obj\Debug\net5.0-windows\CurseWorkVichMat.AssemblyInfoInputs.cache
+G:\repos\CurseWorkVichMat\CurseWorkVichMat\obj\Debug\net5.0-windows\CurseWorkVichMat.AssemblyInfo.cs
+G:\repos\CurseWorkVichMat\CurseWorkVichMat\obj\Debug\net5.0-windows\CurseWorkVichMat.csproj.CoreCompileInputs.cache
