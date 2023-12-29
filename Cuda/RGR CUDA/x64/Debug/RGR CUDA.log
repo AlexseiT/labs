@@ -1,0 +1,10 @@
+﻿G:\VisualStudio\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (CUDA.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Compiling CUDA source file kernel.cu...
+  
+  G:\repos\Cuda\RGR CUDA>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "G:\VisualStudio\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include"  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static --expt-extended-lambda -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o "G:\repos\Cuda\RGR CUDA\x64\Debug\kernel.cu.obj" "G:\repos\Cuda\RGR CUDA\kernel.cu" 
+  kernel.cu
+  tmpxft_0000422c_00000000-7_kernel.cudafe1.cpp
+G:\repos\Cuda\RGR CUDA\matrix_handler.cuh(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     Создается библиотека G:\repos\Cuda\x64\Debug\RGR CUDA.lib и объект G:\repos\Cuda\x64\Debug\RGR CUDA.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  RGR CUDA.vcxproj -> G:\repos\Cuda\x64\Debug\RGR CUDA.exe

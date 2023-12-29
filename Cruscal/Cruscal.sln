@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cruscal", "Cruscal\Cruscal.vcxproj", "{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Debug|x64.ActiveCfg = Debug|x64
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Debug|x64.Build.0 = Debug|x64
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Debug|x86.Build.0 = Debug|Win32
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Release|x64.ActiveCfg = Release|x64
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Release|x64.Build.0 = Release|x64
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Release|x86.ActiveCfg = Release|Win32
+		{187DE1AA-ED52-4AC7-BFA7-25015ADD6BEB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A25F84F-B954-483A-8A31-CC75A1EA9D7E}
+	EndGlobalSection
+EndGlobal
