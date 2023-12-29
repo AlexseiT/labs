@@ -1,0 +1,4 @@
+﻿  govnodlyabasic.cpp
+G:\repos\basic\govnodlyabasic\govnodlyabasic\govnodlyabasic.cpp(70,44): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\basic\govnodlyabasic\govnodlyabasic\govnodlyabasic.cpp(82,23): warning C4101: ind: неиспользованная локальная переменная
+  govnodlyabasic.vcxproj -> G:\repos\basic\govnodlyabasic\x64\Debug\govnodlyabasic.exe

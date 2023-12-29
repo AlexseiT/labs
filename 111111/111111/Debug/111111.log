@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Шайтанмашина\source\repos\111111\111111\main.cpp(12,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  111111.vcxproj -> C:\Users\Шайтанмашина\source\repos\111111\Debug\111111.exe
