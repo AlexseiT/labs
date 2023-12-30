@@ -1,0 +1,7 @@
+body {
+    background-image: url("../images/backgrounds/mainback.png");
+}
+* {
+    margin: 0;
+    padding: 0;
+}

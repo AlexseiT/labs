@@ -1,0 +1,12 @@
+.dicePlace {
+    margin: 2% auto;
+    justify-content: center;
+    border: 0px solid;
+    width: 90%;
+    height: 70%;
+}
+.dicePlace img {
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}

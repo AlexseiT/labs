@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Шайтанмашина\source\repos\Project1\Project1\Source.cpp(142): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\Шайтанмашина\source\repos\Project1\Debug\Project1.exe
