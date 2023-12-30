@@ -1,0 +1,7 @@
+﻿  lab1_avmo.cpp
+G:\repos\lab1_avmo\lab1_avmo\lab1_avmo.cpp(37,26): warning C4244: return: преобразование "__int64" в "double", возможна потеря данных
+G:\repos\lab1_avmo\lab1_avmo\lab1_avmo.cpp(240,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\lab1_avmo\lab1_avmo\lab1_avmo.cpp(357,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\lab1_avmo\lab1_avmo\lab1_avmo.cpp(358,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\lab1_avmo\lab1_avmo\lab1_avmo.cpp(172): warning C4715: Deploy: значение возвращается не при всех путях выполнения
+  lab1_avmo.vcxproj -> G:\repos\lab1_avmo\x64\Debug\lab1_avmo.exe
