@@ -1,0 +1,4 @@
+﻿  TRPO.cpp
+G:\source\repos\TRPO\TRPO.cpp(39,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+G:\source\repos\TRPO\TRPO.cpp(41,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  TRPO.vcxproj -> G:\source\repos\TRPO\Debug\TRPO.exe

@@ -1,0 +1,2 @@
+G:\source\repos\TRPO\Debug\TRPO.exe
+G:\source\repos\TRPO\Debug\TRPO.pdb
