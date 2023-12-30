@@ -1,0 +1,35 @@
+﻿  Source.cpp
+G:\source\repos\sfml\sfml\Source.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\source\repos\sfml\sfml\Source.cpp(28,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\source\repos\sfml\sfml\Source.cpp(34,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\source\repos\sfml\sfml\Source.cpp(40,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\source\repos\sfml\sfml\Source.cpp(40,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\source\repos\sfml\sfml\Source.cpp(41,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\source\repos\sfml\sfml\Source.cpp(41,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\source\repos\sfml\sfml\Source.cpp(42,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\source\repos\sfml\sfml\Source.cpp(42,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\source\repos\sfml\sfml\Source.cpp(68,23): error C4996: 'sf::RenderWindow::capture': объявлен deprecate

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ _main.
+C:\Users\Шайтанмашина\source\repos\sfml\Release\sfml.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
