@@ -1,0 +1,14 @@
+﻿  lab2AVS.cpp
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(21,20): error C2079: "t" использует не имеющую определения структуру struct "wtime::timeval"
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(22,5): error C3861: gettimeofday: идентификатор не найден
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(30,45): error C2440: =: невозможно преобразовать "void *" в "float *"
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(30,20): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(31,41): error C2440: =: невозможно преобразовать "void *" в "float *"
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(31,20): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(32,45): error C2440: =: невозможно преобразовать "void *" в "float *"
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(32,22): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(38,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(41,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(87,19): warning C4476: "fprintf": неизвестный символ поля типа "\n" в описателе формата
+G:\repos\lab2AVS\lab2AVS\lab2AVS.cpp(83,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
