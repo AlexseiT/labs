@@ -1,0 +1,3 @@
+﻿  Labar2.cpp
+G:\source\repos\Labar2\Labar2\Labar2.cpp(63,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Labar2.vcxproj -> G:\source\repos\Labar2\Debug\Labar2.exe
