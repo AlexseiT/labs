@@ -1,0 +1,4 @@
+﻿  matrix.cpp
+G:\repos\matrix\matrix\matrix.cpp(6,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+G:\repos\matrix\matrix\matrix.cpp(58,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  matrix.vcxproj -> G:\repos\matrix\x64\Debug\matrix.exe
