@@ -1,0 +1,3 @@
+﻿  rar.cpp
+G:\repos\rar\rar\rar.cpp(22,27): warning C4551: в вызове функции отсутствует список аргументов
+  rar.vcxproj -> G:\repos\rar\x64\Debug\rar.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+G:\repos\RGR OPEN GL\openg\main.cpp(68,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+G:\repos\RGR OPEN GL\openg\main.cpp(96,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\repos\RGR OPEN GL\openg\main.cpp(97,15): warning C4244: =: преобразование "GLuint" в "float", возможна потеря данных
+G:\repos\RGR OPEN GL\openg\main.cpp(108,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\repos\RGR OPEN GL\openg\main.cpp(109,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\repos\RGR OPEN GL\openg\main.cpp(212,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\repos\RGR OPEN GL\openg\main.cpp(221,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+  openg.vcxproj -> G:\repos\RGR OPEN GL\x64\Debug\openg.exe

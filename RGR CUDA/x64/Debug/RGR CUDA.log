@@ -1,0 +1,8 @@
+﻿  Compiling CUDA source file main.cu...
+  
+  G:\repos\RGR CUDA\RGR CUDA>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "G:\VisualStudio\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\include"  -G   --keep-dir x64\Debug  -maxrregcount=0   --machine 64 --compile -cudart static --expt-extended-lambda -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdx64\Debug\vc143.pdb" -o "G:\repos\RGR CUDA\RGR CUDA\x64\Debug\main.cu.obj" "G:\repos\RGR CUDA\RGR CUDA\main.cu" 
+  main.cu
+  tmpxft_00002194_00000000-7_main.cudafe1.cpp
+G:\repos\RGR CUDA\RGR CUDA\GPUComputer.cuh(71): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\repos\RGR CUDA\RGR CUDA\main.cu(18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  RGR CUDA.vcxproj -> G:\repos\RGR CUDA\x64\Debug\RGR CUDA.exe
