@@ -1,0 +1,8 @@
+﻿  vectconst.cpp
+C:\Users\Шайтанмашина\source\repos\vectconst\vectconst\vectconst.cpp(14,20): error C2062: тип "auto" не требуется
+C:\Users\Шайтанмашина\source\repos\vectconst\vectconst\vectconst.cpp(14,20): error C2065: <range>$L0: необъявленный идентификатор
+C:\Users\Шайтанмашина\source\repos\vectconst\vectconst\vectconst.cpp(14,26): error C3536: <begin>$L0: не может использоваться до инициализации
+C:\Users\Шайтанмашина\source\repos\vectconst\vectconst\vectconst.cpp(14,26): error C3536: <end>$L0: не может использоваться до инициализации
+C:\Users\Шайтанмашина\source\repos\vectconst\vectconst\vectconst.cpp(14,26): error C2100: недопустимое косвенное обращение
+C:\Users\Шайтанмашина\source\repos\vectconst\vectconst\vectconst.cpp(17,1): error C2059: синтаксическая ошибка: }
+C:\Users\Шайтанмашина\source\repos\vectconst\vectconst\vectconst.cpp(17,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
