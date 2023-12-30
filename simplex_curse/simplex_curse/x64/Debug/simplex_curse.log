@@ -1,0 +1,10 @@
+﻿  Main.cpp
+G:\repos\simplex_curse\simplex_curse\Fraction.h(79,26): warning C4244: return: преобразование "__int64" в "double", возможна потеря данных
+G:\repos\simplex_curse\simplex_curse\BasisFinder.h(367,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\simplex_curse\simplex_curse\BasisFinder.h(368,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\simplex_curse\simplex_curse\SimplexMethod.h(165,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\simplex_curse\simplex_curse\SimplexMethod.h(182,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\simplex_curse\simplex_curse\SimplexMethod.h(198,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\simplex_curse\simplex_curse\SimplexMethod.h(212,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\simplex_curse\simplex_curse\SimplexMethod.h(362,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  simplex_curse.vcxproj -> G:\repos\simplex_curse\x64\Debug\simplex_curse.exe

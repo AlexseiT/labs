@@ -1,0 +1,7 @@
+0 0 Z 1 Z eps
+1 λ Z f eps b
+1 0 Z 1 0Z a
+1 0 0 1 00 a
+1 1 0 2 eps bb
+2 1 0 2 eps b
+2 λ Z f eps eps
