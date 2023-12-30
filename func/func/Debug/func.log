@@ -1,0 +1,22 @@
+﻿  func.cpp
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(16,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(19,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(20,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(31,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(31,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(31,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(35,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(35,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(35,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(44,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(44,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(44,13): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(44,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(46,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(46,16): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(46,13): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(46,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(48,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(48,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\func\func\func.cpp(48,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  func.vcxproj -> C:\Users\Шайтанмашина\source\repos\func\Debug\func.exe
