@@ -1,0 +1,5 @@
+﻿  laba 4.cpp
+C:\Users\Шайтанмашина\source\repos\laba 4\laba 4\laba 4.cpp(25,33): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\laba 4\laba 4\laba 4.cpp(19,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Шайтанмашина\source\repos\laba 4\laba 4\laba 4.cpp(19,9): warning C4101: i: неиспользованная локальная переменная
+  laba 4.vcxproj -> C:\Users\Шайтанмашина\source\repos\laba 4\Debug\laba 4.exe
