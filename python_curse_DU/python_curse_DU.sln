@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_curse_DU", "python_curse_DU\python_curse_DU.pyproj", "{82E11C57-EC60-4416-9430-1163B06EC601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E11C57-EC60-4416-9430-1163B06EC601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E11C57-EC60-4416-9430-1163B06EC601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F357C4DF-46A3-4452-ADC8-208DB58B88E0}
+	EndGlobalSection
+EndGlobal
