@@ -1,0 +1,3 @@
+﻿  OOP_1.cpp
+C:\Users\Шайтанмашина\source\repos\OOP_1\OOP_1\OOP_1.cpp(5,22): error C3078: размер массива должен быть указан в новых выражениях без инициализатора
+C:\Users\Шайтанмашина\source\repos\OOP_1\OOP_1\OOP_1.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
