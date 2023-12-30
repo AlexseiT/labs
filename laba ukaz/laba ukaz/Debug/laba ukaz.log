@@ -1,0 +1,3 @@
+﻿  laba ukaz.cpp
+G:\source\repos\laba ukaz\laba ukaz\laba ukaz.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba ukaz.vcxproj -> G:\source\repos\laba ukaz\Debug\laba ukaz.exe
