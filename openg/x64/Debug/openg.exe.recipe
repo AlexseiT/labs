@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>G:\repos\RGR OPEN GL\x64\Debug\openg.exe</FullPath>
+      <FullPath>G:\repos\openg\x64\Debug\openg.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

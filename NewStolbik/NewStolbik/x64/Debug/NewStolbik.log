@@ -1,0 +1,9 @@
+﻿  NewStolbik.cpp
+G:\repos\NewStolbik\NewStolbik\NewStolbik.cpp(12,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\NewStolbik\NewStolbik\NewStolbik.cpp(25,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\NewStolbik\NewStolbik\NewStolbik.cpp(57,65): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\NewStolbik\NewStolbik\NewStolbik.cpp(72,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\NewStolbik\NewStolbik\NewStolbik.cpp(109,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\NewStolbik\NewStolbik\NewStolbik.cpp(110,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\NewStolbik\NewStolbik\NewStolbik.cpp(168,65): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  NewStolbik.vcxproj -> G:\repos\NewStolbik\x64\Debug\NewStolbik.exe

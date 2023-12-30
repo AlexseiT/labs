@@ -1,9 +1,27 @@
 ﻿  main.cpp
-G:\repos\RGR OPEN GL\openg\main.cpp(68,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
-G:\repos\RGR OPEN GL\openg\main.cpp(96,23): warning C4018: <: несоответствие типов со знаком и без знака
-G:\repos\RGR OPEN GL\openg\main.cpp(97,15): warning C4244: =: преобразование "GLuint" в "float", возможна потеря данных
-G:\repos\RGR OPEN GL\openg\main.cpp(108,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-G:\repos\RGR OPEN GL\openg\main.cpp(109,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-G:\repos\RGR OPEN GL\openg\main.cpp(212,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-G:\repos\RGR OPEN GL\openg\main.cpp(221,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
-  openg.vcxproj -> G:\repos\RGR OPEN GL\x64\Debug\openg.exe
+G:\repos\openg\openg\main.cpp(48,21): warning C4244: аргумент: преобразование "GLuint" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+G:\repos\openg\openg\main.cpp(54,21): warning C4244: аргумент: преобразование "GLuint" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+G:\repos\openg\openg\main.cpp(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+G:\repos\openg\openg\main.cpp(68,21): warning C4018: <: несоответствие типов со знаком и без знака
+G:\repos\openg\openg\main.cpp(107,21): warning C4018: <: несоответствие типов со знаком и без знака
+G:\repos\openg\openg\main.cpp(158,21): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+G:\repos\openg\openg\main.cpp(194,21): warning C4018: <: несоответствие типов со знаком и без знака
+G:\repos\openg\openg\main.cpp(260,21): warning C4244: =: преобразование "_Rep" в "double", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+G:\repos\openg\openg\main.cpp(310,11): warning C4129: T: неизвестная escape-последовательность
+  openg.vcxproj -> G:\repos\openg\x64\Debug\openg.exe

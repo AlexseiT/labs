@@ -1,0 +1,12 @@
+﻿  MatrixRGR.cpp
+G:\repos\MatrixRGR\MatrixRGR\MatrixRGR.cpp(61,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\MatrixRGR\MatrixRGR\MatrixRGR.cpp(97,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\MatrixRGR\MatrixRGR\MatrixRGR.cpp(140,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\MatrixRGR\MatrixRGR\MatrixRGR.cpp(141,56): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\MatrixRGR\MatrixRGR\MatrixRGR.cpp(155,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\MatrixRGR\MatrixRGR\MatrixRGR.cpp(324,30): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  MatrixRGR.vcxproj -> G:\repos\MatrixRGR\x64\Debug\MatrixRGR.exe
