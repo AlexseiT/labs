@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RGRZI", "RGRZI\RGRZI.pyproj", "{32149A24-4E01-4AC1-85D0-CC60FA7A9C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32149A24-4E01-4AC1-85D0-CC60FA7A9C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32149A24-4E01-4AC1-85D0-CC60FA7A9C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B53CFCF-0B71-4E57-AFA0-FD7D4B26541B}
+	EndGlobalSection
+EndGlobal

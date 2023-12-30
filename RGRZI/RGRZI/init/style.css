@@ -1,0 +1,235 @@
+@charset "UTF-8";
+/** Подключение шрифтов локально из папки "./src/fonts" */
+@font-face {
+  font-family: Rubik;
+  font-display: swap;
+  src: url("../fonts/Rubik.woff2") format("woff2"), url("../fonts/Rubik.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+/** Подключение переменных */
+/** Подключение sass function и mixins и extends стилей */
+/** Общие параметры, шаблоны(заготовки) и вспомогательные классы */
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+html{
+  
+}
+html, body {
+  overflow-x: hidden;
+  font-family: "Rubik";
+  font-size: 20px;
+  color: black;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  background: #15171a !important;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.main {
+  flex-grow: 1;
+  background: url("../images/background.png") repeat-y 100% 100%;
+  background-size: cover;
+  width: 100%;
+}
+
+.container {
+  max-width: 1920px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.collapse:not(.show) {
+  display: none;
+}
+
+@media (max-width: 1920.98px) {
+  .container {
+    max-width: 1440px;
+  }
+}
+@media (max-width: 1440.98px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+@media (max-width: 1200.98px) {
+  .container {
+    max-width: 768px;
+  }
+}
+@media (max-width: 768.98px) {
+  .container {
+    max-width: 376px;
+  }
+}
+
+.burger__button{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 40px;
+  transition: .3s;
+}
+.burger__line{
+  width: 40px;
+  height: 5px;
+  background: #00d394;
+  border-radius: 50px;
+  transition: .5s;
+  align-items: center;
+  justify-content: center;
+}
+.burger__button:hover{
+  transform: rotate(90deg);
+  transition: .5s;
+}
+.burger__button:hover .burger__line{
+  width: 10px;
+  height: 10px;
+  transition: .5s;
+}
+.burger__button_active{
+  transform: rotate(90deg);
+  transition: .5s;
+  left: 80px;
+}
+.burger__button_active .burger__line{
+  width: 10px;
+  height: 10px;
+  transition: .5s;
+}
+.burger__menu{
+  background: white;
+  width: 100%;
+}
+.burger__warraper{
+  width: fit-content;
+}
+.menu__content{
+  width: 200px;
+  height: 100vh;
+  background: #181e24 ;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+  border-right: 2px solid #00d394;
+}
+.menu__accent{
+  color: white;
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  font-size: 12px;
+}
+.menu__element{
+  border-bottom: 0px #00d394 solid;
+  transition: .5s;
+}
+.menu__element:hover{
+  transition: .5s;
+  padding-left: 20px;
+  border-left: 10px #00d394 solid;
+  border-radius: 50px;
+}
+.menu__element_active img{
+  background: #00d394 ;
+  padding: 10px;
+  border-radius: 20px;
+  transition: .5s;
+}
+.header{
+  position: absolute;
+}
+.graph__container{
+  margin-top: 100px;
+  background: #1f2327;
+  width: auto;
+  padding: 10px;
+  border-radius: 25px;
+}
+.input__form, .canvas__graph{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25px;
+  background: #1f2327;
+  padding: 20px;
+}
+.input__element{
+  width: 100%;
+  background: #1f2327;
+  border: 1px #00d394 solid;
+  color: #00d394;
+  padding: 10px;
+  border-radius: 25px;
+  font-size: 16px;
+  transition: .3s;
+}
+.input__textarea{
+  height: 300px;
+}
+.input__button{
+  border-radius: 25px;
+  background: #00d394;
+  color: #1f2327;
+  font-size: 16px;
+  transition: .3s;
+  padding: 5px 20px;
+}
+.input__element:hover{
+  transition: .3s;
+  transform: scale(1.03);
+}
+.input__button:hover{
+  transition: .3s;
+  transform: scale(1.1);
+}
+.canvas__graph{
+  display: flex;
+}
+tspan{
+  fill: #00d394;
+  font-size: 16px;
+}
+path{
+  stroke: #00d394;
+}
+.gridjs-td{
+  color: #00d394;
+}
+.gridjs-tbody, td.gridjs-td{
+  background: #181e24 !important;
+}
+.td.gridjs-td{
+  border: 1px solid #00d394 !important;
+}
+.wrapper__container{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
