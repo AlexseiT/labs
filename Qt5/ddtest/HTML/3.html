@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Справка</title>
+        <script language="JavaScript">
+         <!--
+         function flipflop( id )
+         {
+          element = document.getElementById( id );
+          if( element )   
+             element.style.display = element.style.display == "none" ? "" : "none";   
+         }
+         -->
+        </script>
+    </head>
+    <body>
+		<h1>СПРАВКА ПО РАБОТЕ С WSTATUS</h1>
+        <button onclick="window.location='index.html'">FAQ</button>
+        <button onclick="window.location='1.html'">Главное окно</button>
+        <button onclick="window.location='2.html'">Окно единиц заказа</button>
+        <button onclick="window.location='3.html'">Окно заметок</button>
+        <h2>Окно заметок заказа</h2>
+        <p><img src="image/NoteWindow.jpg" style="height:30%;"/></p>
+        <ul>
+            <h3><a href="javascript:flipflop('9');">Редактирование заметки</a></h3>
+                <ul id="9" style="display: none;">
+                <p style="margin-left: 50px">[Редактировать] - Нажмите для разблокировки изменения текста заметки</p>
+                <p style="margin-left: 50px">[Отменить] - Нажмите для возвращения текста заметки до редактирования</p>
+                <p style="margin-left: 50px">[Очистить] - Нажмите для полного удаления текста заметки</p>
+                </ul>
+            <h3><a href="javascript:flipflop('10');">Работа с текстовыми файлами</a></h3>
+                <ul id="10" style="display: none;">
+                <p style="margin-left: 50px">[Открыть] - Нажмите для ввода текста из файла в заметку</p>
+                <p style="margin-left: 50px">[Сохранить] - Нажмите для сохранения текста заметки в выбранный файл</p>
+                <p style="margin-left: 50px">[Сохранить как] - Нажмите для сохранения текста заметки в новый файл</p>
+                </ul>
+        </ul>
+    </body>
+</html>

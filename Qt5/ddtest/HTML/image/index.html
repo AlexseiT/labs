@@ -1,0 +1,110 @@
+<html>
+
+    <head>
+        <title>Справка</title>
+        <script language="JavaScript">
+         <!--
+         function flipflop( id )
+         {
+          element = document.getElementById( id );
+          if( element )   
+             element.style.display = element.style.display == "none" ? "" : "none";   
+         }
+         -->
+        </script>
+    </head>
+    <body>
+		<h1>СПРАВКА ПО РАБОТЕ С WSTATUS</h1>
+        
+		<h2>1. Главное окно приложения</h2>
+        <p><img src="image/mainwindow.png" style="height:50%;"/></p>
+        <ul>
+            <h3><a href="javascript:flipflop('1');">Создать новый проект или открыть готовый</a></h3>
+                <ul id="1" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/Create.jpg" style=""/> - Кнопка создания проекта. Нажмите, выберите название проекта и нажмите [Создать]</p>
+                <p><img src="image/CreateWindow.jpg" style=""/></p>
+                <p style="margin-left: 50px"><img src="image/Open.jpg" style=""/> - Кнопка открытия проекта. Нажмите, выберите существующий проект в директории</p>
+                </ul>
+                
+            <h3><a href="javascript:flipflop('2');">Добавить, удалить, редактировать заказ</a></h3>
+                <ul id="2" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/Add.jpg" style=""/> - Кнопка добавления заказа. Нажмите, в открытом окне заполните необходимые поля и нажмите [Принять]</p>
+                <p><img src="image/AddWindow.jpg" style=""/></p>
+                <p style="margin-left: 50px"><img src="image/Delete.jpg" style=""/> - Кнопка удаления заказа. Выберите нужную запись и нажмите на данную кнопку.</p>
+                <p><img src="image/ValueOrder.jpg" style=""/></p>
+                <p style="margin-left: 50px"><img src="image/Change.jpg" style=""/> - Кнопка редактирования заказа. Выберите нужную запись и нажмите на данную кнопку.</p>
+                <p><img src="image/ValueOrder.jpg" style=""/></p>
+                <p>В открытом окне измените необходимые поля и нажмите [Принять].</p>
+                <p><img src="image/ValueChange.jpg" style=""/></p>
+                </ul>
+            
+            <h3><a href="javascript:flipflop('3');">Открыть юниты</a></h3>
+                <ul id="3" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/OpenUnits.jpg" style=""/> - Кнопка открытия таблицы юнитов для заказа. Выберите нужную запись и нажмите на данную кнопку.</p>
+                <p><img src="image/ValueOrder.jpg" style=""/></p>
+                </ul>
+        
+            <h3><a href="javascript:flipflop('4');">Открыть документ заказа</a></h3>
+                <ul id="4" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/OpenFile.jpg" style=""/> - Кнопка открытия прикрепленного документа к заказу. Выберите нужную запись и нажмите на данную кнопку.</p>
+                <p><img src="image/ValueOrder.jpg" style=""/></p>
+                </ul>    
+            
+            <h3><a href="javascript:flipflop('5');">Отгрузить заказ</a></h3>
+                <ul id="5" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/Status.jpg" style=""/> - Кнопка для отгрузки заказа. Выберите нужную запись и нажмите на данную кнопку.</p>
+                <p><img src="image/ValueOrder.jpg" style=""/></p>
+                <p>В открытом окне, в поле введите название места прибытия заказа и нажмите [Принять].</p>
+                <p><img src="image/StatusWindow.jpg" style=""/></p>
+                </ul>
+        
+            <h3><a href="javascript:flipflop('6');">Поиск заказчика и фильтры</a></h3>
+                <ul id="6" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/Search.jpg" style=""/> - Введите в поле нужного вам заказчика и нажмите [Поиск] для поиска заказчика по вашим заказам. Нажмите [x] для отчистки поля.</p>
+                <p style="margin-left: 50px"><img src="image/Filter.jpg" style=""/> - Выберите нужную категорию для фильтрации ваших заказов:</p>
+                <p>[Разработка] - покажет все заказы находящиеся в разработке (есть юнит или юниты, которые не имеют готовый статус)</p>
+                <p>[Готово] - покажет все готовые заказы (все юниты имеют готовый статус)</p>  
+                <p>[Отгружен] - покажет все отгруженные заказы</p>
+                <p>[Все] - покажет все заказы в вашем проекте</p>
+                </ul>
+        </ul>
+        
+        <h2>2. Окно таблицы юнитов</h2>
+        <p><img src="image/UnitsWindow.jpg"/></p>
+        <ul>
+            <h3><a href="javascript:flipflop('7');">Добавить, удалить, редактировать юнит</a></h3>
+                <ul id="7" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/Add.jpg" style=""/> - Кнопка добавления юнита. Нажмите, в открытом окне заполните необходимое поле и нажмите [Принять]</p>
+                <p><img src="image/AddUnitWindow.jpg" style=""/>
+                <p style="margin-left: 50px"><img src="image/Delete.jpg" style=""/> - Кнопка удаления заказа. Выберите нужную запись и нажмите на данную кнопку.</p>
+                <p><img src="image/ValueUnit.jpg" style=""/>
+                <p style="margin-left: 50px"><img src="image/Change.jpg" style=""/> - Кнопка редактирования заказа. Выберите нужную запись и нажмите на данную кнопку.</p>
+                <p><img src="image/ValueUnit.jpg" style=""/>
+                <p>В открытом окне измените название юнита и нажмите [Принять].</p>
+                <p><img src="image/ChangeUnit.jpg" style=""/>
+                </ul>
+            <h3><a href="javascript:flipflop('8');">Изменить статус юнита</a></h3>
+                <ul id="8" style="display: none;">
+                <p style="margin-left: 50px"><img src="image/StatusUnit.jpg" style=""/> - Нажмите для смены статуса юнита</p>
+                </ul>
+        </ul>
+
+        <h2>3. Окно заметок заказа</h2>
+        <p><img src="image/NoteWindow.jpg"/></p>
+        <ul>
+            <h3><a href="javascript:flipflop('9');">Редактирование заметки</a></h3>
+                <ul id="9" style="display: none;">
+                <p style="margin-left: 50px">[Редактировать] - Нажмите для разблокировки изменения текста заметки</p>
+                <p style="margin-left: 50px">[Отменить] - Нажмите для возвращения текста заметки до редактирования</p>
+                <p style="margin-left: 50px">[Очистить] - Нажмите для полного удаления текста заметки</p>
+                </ul>
+            <h3><a href="javascript:flipflop('10');">Работа с текстовыми файлами</a></h3>
+                <ul id="10" style="display: none;">
+                <p style="margin-left: 50px">[Открыть] - Нажмите для ввода текста из файла в заметку</p>
+                <p style="margin-left: 50px">[Сохранить] - Нажмите для сохранения текста заметки в выбранный файл</p>
+                <p style="margin-left: 50px">[Сохранить как] - Нажмите для сохранения текста заметки в новый файл</p>
+                </ul>
+        </ul>
+        
+    </body>
+</html>
