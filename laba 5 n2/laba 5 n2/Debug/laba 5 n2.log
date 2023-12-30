@@ -1,0 +1,5 @@
+﻿  laba 5 n2.cpp
+C:\Users\Шайтанмашина\source\repos\laba 5 n2\laba 5 n2\laba 5 n2.cpp(15,51): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\laba 5 n2\laba 5 n2\laba 5 n2.cpp(19,47): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\laba 5 n2\laba 5 n2\laba 5 n2.cpp(10,28): warning C4101: y: неиспользованная локальная переменная
+  laba 5 n2.vcxproj -> C:\Users\Шайтанмашина\source\repos\laba 5 n2\Debug\laba 5 n2.exe
