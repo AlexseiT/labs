@@ -1,0 +1,5 @@
+﻿  labarator 3_3.cpp
+  Source.cpp
+  Создание кода...
+G:\source\repos\labarator 3_3\labarator 3_3\Source.cpp(13): error C4700: использована неинициализированная локальная переменная "n"
+G:\source\repos\labarator 3_3\labarator 3_3\labarator 3_3.cpp(11): error C4700: использована неинициализированная локальная переменная "n"
