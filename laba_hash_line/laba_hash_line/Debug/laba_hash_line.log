@@ -1,0 +1,3 @@
+﻿  laba_hash_line.cpp
+C:\Users\Шайтанмашина\source\repos\laba_hash_line\laba_hash_line\laba_hash_line.cpp(29): warning C4715: Hash_line: значение возвращается не при всех путях выполнения
+  laba_hash_line.vcxproj -> C:\Users\Шайтанмашина\source\repos\laba_hash_line\Debug\laba_hash_line.exe
