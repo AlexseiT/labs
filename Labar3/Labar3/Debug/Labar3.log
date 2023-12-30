@@ -1,0 +1,5 @@
+﻿  Labar3.cpp
+C:\Users\Шайтанмашина\source\repos\Labar3\Labar3\Labar3.cpp(73,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\Labar3\Labar3\Labar3.cpp(74,11): error C2131: выражение не определяется константой
+C:\Users\Шайтанмашина\source\repos\Labar3\Labar3\Labar3.cpp(74,11): message : сбой вызван чтением переменной вне срока ее существования
+C:\Users\Шайтанмашина\source\repos\Labar3\Labar3\Labar3.cpp(74,11): message : см. использование "n"
