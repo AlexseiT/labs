@@ -1,0 +1,124 @@
+Recognized nonterms: S, A1, C
+Recognized terms: a, b, c
+
+Parsed rules: 
+A1 -> a A1 b b | \eps
+C -> c c C | \eps
+S -> a a A1 b b c C
+
+Add new initial nonterm "\S0"
+A1 -> a A1 b b | \eps
+C -> c c C | \eps
+S -> a a A1 b b c C
+\S0 -> S
+
+Move terms into separate rules
+A1 -> \S1 A1 \S2 \S2 | \eps
+C -> \S3 \S3 C | \eps
+S -> \S1 \S1 A1 \S2 \S2 \S3 C
+\S0 -> S
+\S1 -> a
+\S2 -> b
+\S3 -> c
+
+Break rules with length more than 2
+A1 -> \S1 \S4 | \eps
+C -> \S3 \S6 | \eps
+S -> \S1 \S7
+\S0 -> S
+\S1 -> a
+\S10 -> \S2 \S11
+\S11 -> \S3 C
+\S2 -> b
+\S3 -> c
+\S4 -> A1 \S5
+\S5 -> \S2 \S2
+\S6 -> \S3 C
+\S7 -> \S1 \S8
+\S8 -> A1 \S9
+\S9 -> \S2 \S10
+
+Delete epsilon - rules in rules with two nonterminals
+A1 -> \S1 \S4 | \eps
+C -> \S3 \S6 | \eps
+S -> \S1 \S7
+\S0 -> S
+\S1 -> a
+\S10 -> \S2 \S11
+\S11 -> \S3 C
+\S2 -> b
+\S3 -> c
+\S4 -> A1 \S5
+\S5 -> \S2 \S2
+\S6 -> \S3 C
+\S7 -> \S1 \S8
+\S8 -> A1 \S9
+\S9 -> \S2 \S10
+
+Delete single epsilon - rules and move single epsilon rule from "S" to "\S0" if it exists
+A1 -> \S1 \S4
+C -> \S3 \S6
+S -> \S1 \S7
+\S0 -> S
+\S1 -> a
+\S10 -> \S2 \S11
+\S11 -> \S3 C | \S3
+\S2 -> b
+\S3 -> c
+\S4 -> A1 \S5 | \S5
+\S5 -> \S2 \S2
+\S6 -> \S3 C | \S3
+\S7 -> \S1 \S8
+\S8 -> A1 \S9 | \S9
+\S9 -> \S2 \S10
+
+Delete duplicates
+A1 -> \S1 \S4
+C -> \S3 \S6
+S -> \S1 \S7
+\S0 -> S
+\S1 -> a
+\S10 -> \S2 \S11
+\S11 -> \S3 C | \S3
+\S2 -> b
+\S3 -> c
+\S4 -> A1 \S5 | \S5
+\S5 -> \S2 \S2
+\S6 -> \S3 C | \S3
+\S7 -> \S1 \S8
+\S8 -> A1 \S9 | \S9
+\S9 -> \S2 \S10
+
+Delete unused rules
+A1 -> \S1 \S4
+C -> \S3 \S6
+S -> \S1 \S7
+\S0 -> S
+\S1 -> a
+\S10 -> \S2 \S11
+\S11 -> \S3 C | \S3
+\S2 -> b
+\S3 -> c
+\S4 -> A1 \S5 | \S5
+\S5 -> \S2 \S2
+\S6 -> \S3 C | \S3
+\S7 -> \S1 \S8
+\S8 -> A1 \S9 | \S9
+\S9 -> \S2 \S10
+
+Remove chain rules
+A1 -> \S1 \S4
+C -> \S3 \S6
+\S0 -> \S1 \S7
+\S1 -> a
+\S10 -> \S2 \S11
+\S11 -> \S3 C | c
+\S2 -> b
+\S3 -> c
+\S4 -> A1 \S5 | \S2 \S2
+\S5 -> \S2 \S2
+\S6 -> \S3 C | c
+\S7 -> \S1 \S8
+\S8 -> A1 \S9 | \S2 \S10
+\S9 -> \S2 \S10
+

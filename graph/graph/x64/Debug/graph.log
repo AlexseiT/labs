@@ -1,0 +1,4 @@
+﻿  graph.cpp
+G:\repos\graph\graph\graph.cpp(13,24): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+G:\repos\graph\graph\graph.cpp(13,19): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+  graph.vcxproj -> G:\repos\graph\x64\Debug\graph.exe
