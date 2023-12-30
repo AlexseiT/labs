@@ -1,0 +1,8 @@
+﻿  lab4avs.cpp
+G:\repos\lab4avs\lab4avs\lab4avs.cpp(51,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\repos\lab4avs\lab4avs\lab4avs.cpp(51,81): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\repos\lab4avs\lab4avs\lab4avs.cpp(53,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+G:\repos\lab4avs\lab4avs\lab4avs.cpp(143,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+G:\repos\lab4avs\lab4avs\lab4avs.cpp(110,19): warning C4101: timebegin: неиспользованная локальная переменная
+G:\repos\lab4avs\lab4avs\lab4avs.cpp(110,30): warning C4101: timeend: неиспользованная локальная переменная
+  lab4avs.vcxproj -> G:\repos\lab4avs\x64\Debug\lab4avs.exe

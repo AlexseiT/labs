@@ -1,0 +1,7 @@
+﻿  Main.cpp
+G:\repos\lab3_avmo\lab3_avmo\TransportTask.h(193,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\lab3_avmo\lab3_avmo\TransportTask.h(207,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\lab3_avmo\lab3_avmo\TransportTask.h(292,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\lab3_avmo\lab3_avmo\TransportTask.h(300,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\lab3_avmo\lab3_avmo\TransportTask.h(301,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab3_avmo.vcxproj -> G:\repos\lab3_avmo\x64\Debug\lab3_avmo.exe
