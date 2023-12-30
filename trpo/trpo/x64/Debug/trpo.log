@@ -1,0 +1,23 @@
+﻿  trpo.cpp
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(53,11): error C3861: distance_between_points: идентификатор не найден
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(54,11): error C3861: distance_between_points: идентификатор не найден
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(55,11): error C3861: distance_between_points: идентификатор не найден
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(60,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(62,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(79,56): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(82,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(119,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(146,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(147,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(149,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(150,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(152,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(153,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(163,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(165,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(167,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(169,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(171,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(173,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(175,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Шайтанмашина\source\repos\trpo\trpo\trpo.cpp(177,43): warning C4244: =: преобразование "double" в "float", возможна потеря данных
