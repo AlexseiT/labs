@@ -1,0 +1,3 @@
+﻿  spisok true 1.cpp
+C:\Users\Шайтанмашина\source\repos\spisok true 1\spisok true 1\spisok true 1.cpp(92): warning C4715: list<int>::operator[]: значение возвращается не при всех путях выполнения
+  spisok true 1.vcxproj -> C:\Users\Шайтанмашина\source\repos\spisok true 1\Debug\spisok true 1.exe

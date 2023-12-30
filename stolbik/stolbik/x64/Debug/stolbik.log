@@ -1,0 +1,9 @@
+﻿  stolbik.cpp
+G:\repos\stolbik\stolbik\stolbik.cpp(24,49): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+G:\repos\stolbik\stolbik\stolbik.cpp(80,21): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\stolbik\stolbik\stolbik.cpp(81,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\stolbik\stolbik\stolbik.cpp(112,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\stolbik\stolbik\stolbik.cpp(113,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\repos\stolbik\stolbik\stolbik.cpp(124,62): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+G:\repos\stolbik\stolbik\stolbik.cpp(125,81): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  stolbik.vcxproj -> G:\repos\stolbik\x64\Debug\stolbik.exe
