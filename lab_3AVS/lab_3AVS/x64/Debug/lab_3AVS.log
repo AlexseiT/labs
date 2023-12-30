@@ -1,0 +1,5 @@
+﻿  lab_3AVS.cpp
+G:\repos\lab_3AVS\lab_3AVS\lab_3AVS.cpp(206,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+G:\repos\lab_3AVS\lab_3AVS\lab_3AVS.cpp(230,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+G:\repos\lab_3AVS\lab_3AVS\lab_3AVS.cpp(234,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab_3AVS.vcxproj -> G:\repos\lab_3AVS\x64\Debug\lab_3AVS.exe
